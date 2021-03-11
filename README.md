@@ -6,8 +6,8 @@ The game is run and played in console. place 4 marks in a row, column or cross b
 
 #### Run
 compile both `Cells.java` and `Main.java` with `javac` command in your terminal. Then run `Main` with `java` command;  
-`javac Cells.java Main.java `        
-`java Main                   `
+> javac Cells.java Main.java     
+> java Main
 
 **Have FUN!**
 
