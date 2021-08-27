@@ -5,7 +5,11 @@ anywhere you want! you can imagine the marks, fall down and stack up.
 The game is run and played in console. place 4 marks in a row, column or cross before your opponent to win!
 
 #### Run
-compile both `Cells.java` and `Main.java` with `javac` command in your terminal. Then run `Main` with `java` command;  
+You can download the java archive file [here](https://github.com/MeysamBavi/CellsGame/releases/download/v1.0.0/CellsGame.jar) and run the app with the command
+```
+java -jar CellsGame.jar
+```
+Alternatively, you can compile both `Cells.java` and `Main.java` with `javac` command in your terminal. Then run `Main` with `java` command;  
 ```
 javac Cells.java Main.java     
 java Main
